@@ -1,5 +1,5 @@
 class Stack {
-    protected _s: any[];
+	protected _s: any[];
 
 	public createStack () {
 		this._s = [];
